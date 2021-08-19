@@ -20,8 +20,6 @@ https://chrome.google.com/webstore/detail/video-play-speed-controll/oeeeoehjmbec
 
 ![GTV | Livestream](./screenshots/GTV.png)
 
-![路德 | YouTube](./screenshots/lude.png)
-
 ![Vimeo](./screenshots/vimeo.png)
 
 ## 开发
