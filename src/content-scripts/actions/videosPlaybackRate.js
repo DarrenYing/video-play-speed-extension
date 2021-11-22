@@ -6,7 +6,7 @@ function $$(selector) {
  * @return {number[]}
  */
 export function getVideosPlaybackRate() {
-  const videos = $$('video')
+  const videos = $$("video, bwp-video")
   return videos.length ? Array.from(videos).map(el => el.playbackRate) : []
 }
 export const GET_VIDEOS_PLAYBACK_RATE = 'GET_VIDEOS_PLAYBACK_RATE'
